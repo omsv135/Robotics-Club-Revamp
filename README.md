@@ -1,2 +1,6 @@
 # Robotics-Club-Revamp
-Revamp of IITK's Robotics Club website  
+Revamp of the Robotics club website IITK.
+
+Team:
+- Om Shivam Verma - omsv135
+
