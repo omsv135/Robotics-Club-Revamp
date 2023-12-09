@@ -3,5 +3,6 @@ Revamp of the Robotics club website IITK.
 
 Team:
 - Om Shivam Verma - omsv135
-- TM Abisanth -Abi2174
-
+- Nilesh Maneshwar - mnilesh2
+- Garima
+- TM Abisanth - Abi2174
