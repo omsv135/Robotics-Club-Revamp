@@ -5,7 +5,7 @@ Team:
 - Om Shivam Verma - omsv135
 - Ayush Baghel - ayushbaghel01
 - Nilesh Maneshwar - mnilesh2
-- Garima
+- Garima - Garima-tl
 - TM Abisanth - Abi2174
 - Kunal Kumar Thakur - kunal1173
 - Ayush Baghel - ayushbaghel01
